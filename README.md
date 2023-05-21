@@ -11,8 +11,8 @@ This Chrome extension adds a "Detour Paywall" button to certain websites, allowi
 
 - www.zeit.de
 - www.spiegel.de
-- www.welt.de
-- www.faz.net
+
+
 
 ## Installation
 
