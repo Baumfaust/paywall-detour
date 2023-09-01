@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Paywayll-Detour",
-  "version": "0.6",
+  "version": "0.7",
   "description": "Adds a button to open the current page in archive.ph",
   "permissions": ["activeTab"],
   "action": {
@@ -15,7 +15,9 @@
     "https://www.zeit.de/*",
     "https://www.spiegel.de/*",
     "https://www.welt.de/*",
-    "https://www.faz.net/*"
+    "https://www.faz.net/*",
+    "https://m.faz.net/*"
+    
   ],
   "content_scripts": [
     {
@@ -23,7 +25,8 @@
         "https://www.zeit.de/*",
         "https://www.spiegel.de/*",
         "https://www.welt.de/*",
-        "https://www.faz.net/*"
+        "https://www.faz.net/*",
+        "https://m.faz.net/*"
       ],
       "js": ["content.js"]
     }
