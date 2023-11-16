@@ -16,7 +16,9 @@
     "https://www.spiegel.de/*",
     "https://www.welt.de/*",
     "https://www.faz.net/*",
-    "https://m.faz.net/*"
+    "https://m.faz.net/*",
+    "https://www.bild.de/*",
+    "https://m.bild.de/*"
     
   ],
   "content_scripts": [
@@ -26,7 +28,9 @@
         "https://www.spiegel.de/*",
         "https://www.welt.de/*",
         "https://www.faz.net/*",
-        "https://m.faz.net/*"
+        "https://m.faz.net/*",
+        "https://www.bild.de/*",
+        "https://m.bild.de/*"
       ],
       "js": ["content.js"]
     }
