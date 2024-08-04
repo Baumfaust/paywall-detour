@@ -1,4 +1,4 @@
-# Paywayll-Detour Chrome Extension
+# Paywall-Detour Chrome Extension
 
 This Chrome extension adds a "Detour Paywall" button to certain websites, allowing you to open the current page in archive.ph.
 
